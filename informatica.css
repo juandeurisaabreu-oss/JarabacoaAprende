@@ -1,0 +1,38 @@
+
+        
+body {
+    margin: 0;
+    background-color: #F3F7F1;
+    color: #263B2D;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #214B3A;
+    color: white;
+    padding: 30px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+main {
+    padding: 30px 20px;
+}
+
+.boton {
+    display: inline-block;
+    background-color: #276749;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 7px;
+    text-decoration: none;
+}
+
+.boton:hover {
+    background-color: #163D2B;
+}
+
